@@ -1,4 +1,5 @@
 ![Screenshot_1638218237](https://user-images.githubusercontent.com/13693800/143939435-ada28359-8a61-4a40-8de5-d4e4088333ce.png)
+this is gaming news api --> https://rapidapi.com/alexaustin9816@gmail.com/api/gaming-news/
 
 when you click gaming news, goes to about link by url launcher.
 
